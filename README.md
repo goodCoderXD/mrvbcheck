@@ -15,6 +15,8 @@ Not going to commit this at work because people are gonna get pissed.
 Usage:
 
 ```sh
+git clone https://github.com/goodCoderXD/mrvbcheck.git .
+
 echo REPO="repo_path" >> vars.sh
 echo DIR="$pwd" >> vars.sh
 
